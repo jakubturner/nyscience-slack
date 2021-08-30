@@ -1,0 +1,16 @@
+{
+  "name": "rss-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rss.js",
+  "scripts": {
+   "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concat-stream": "^2.0.0",
+    "rss-parser": "^3.12.0"
+  }
+}
